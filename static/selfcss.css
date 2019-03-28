@@ -1,0 +1,28 @@
+h1{
+	width:50%;
+	background-color:black;
+	color:white;
+	text-align:center;
+	display:inline-block;
+	border-radius:10px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	
+}
+#buttons{
+	border-radius:10px;
+	width:50%;
+	background-color: powderblue;
+	text-align:center;
+	display:inline-block;
+}
+#result{
+	border-radius:10px;
+	width:50%;
+	background-color: powderblue;
+	text-align:center;
+	display:inline-block;
+	
+}
+body{
+text-align:center;
+}
